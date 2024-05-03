@@ -1,9 +1,8 @@
 # Link Instalasi
 *Only Ubuntu Min Ver 20.04
 ```
-apt update -y
+apt update
 apt upgrade -y
-apt dist-upgrade -y
 reboot
 ```
 ```
