@@ -133,15 +133,6 @@ cat > /usr/local/etc/xray/config.json << END
   },
   "routing": {
      "domainStrategy": "IPIfNonMatch",
-     "rules": [
-        {
-           "type": "field",
-           "domain": [
-              "geosite:zoom"
-              ],
-              "outboundTag": "WARP"
-        }
-      ]
    },
   "inbounds": [
     {
