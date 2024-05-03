@@ -137,7 +137,6 @@ cat > /usr/local/etc/xray/config.json << END
         {
            "type": "field",
            "domain": [
-              "geosite:pornhub"
               ],
               "outboundTag": "WARP"
         }
