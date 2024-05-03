@@ -1,3 +1,15 @@
+# Link Instalasi
+*Only Ubuntu Min Ver 20.04
+```
+apt update -y
+apt upgrade -y
+apt dist-upgrade -y
+reboot
+```
+```
+bash -c "$(wget -qO- https://raw.githubusercontent.com/hendramla/autoscript2/main/xray)"
+```
+
 # Autoscript | Free To Use For All
 Tolong di Fork atau "use this template" 🙏🙏
 
@@ -43,17 +55,6 @@ Daftar Website rute dialihkan ke WARP
 | Auto Delete Expired User| ✅ |
 | DNS Setting | ✅ |
 
-# Link Instalasi
-*Only Ubuntu Min Ver 20.04
-```
-apt update -y
-apt upgrade -y
-apt dist-upgrade -y
-reboot
-```
-```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/hendramla/autoscript2/main/xray)"
-```
 # Donasi
 Donasi untuk perpanjang Layanan WARP+ 😊😊
 
