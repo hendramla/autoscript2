@@ -134,7 +134,7 @@ cat > /usr/local/etc/xray/config.json << END
         {
            "type": "field",
            "domain": [
-              "geosite:hendramla"
+              "geosite:zoom"
               ],
               "outboundTag": "WARP"
         }
